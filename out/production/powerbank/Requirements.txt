@@ -1,0 +1,12 @@
+1. Capacity 10000mah
+2. Power Port:
+    2.1) Input: 1 (for charging-Type C) + 1 (for scalability options)
+    2.2) Output: 3
+3. Charging - Discharging live (via Async like Apache Kafka)
+4. Scalability: by connecting Series / Parallel other Power banks
+5. Device Charging Estimation Strategy
+    5.1) below 10% preference
+    5.2) if one device is above 80% reallocation charging for another device
+    5.3)
+6. Power OFF / ON
+
